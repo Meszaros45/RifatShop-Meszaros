@@ -1,3 +1,21 @@
+.carrito-container{
+    font-size: 3rem;
+    margin-right: 1rem
+    ;
+}
+
+
+.saludo{
+  font-size: 2rem;
+  background-color: #282c34;
+  color: white;
+  margin: 0;
+}
+
+.saludo h1 {
+  margin: 0;
+}
+
 .navbar-container{
     display: flex;
     flex-direction:row;
@@ -13,13 +31,13 @@ ul{
     flex-direction: row;
     list-style-type: none;
     padding: 0;
-    
+
 }
 
 li{
     margin-left: 10px;
     margin-right: 10px;
-    
+
 }
 
 a{
@@ -30,5 +48,9 @@ a{
 button{
     margin: 10px;
     font-style: italic;
-    
+
+}
+
+h2{
+  margin: 0;
 }
